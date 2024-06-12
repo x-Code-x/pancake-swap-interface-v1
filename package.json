@@ -85,7 +85,8 @@
     "@emotion/is-prop-valid": "1.2.2"
   },
   "resolutions": {
-    "@walletconnect/web3-provider": "1.1.1-alpha.0"
+    "@walletconnect/web3-provider": "1.1.1-alpha.0",
+    "@emotion/is-prop-valid": "1.2.2"
   },
   "scripts": {
     "start": "react-scripts start",
