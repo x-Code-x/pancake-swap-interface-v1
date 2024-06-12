@@ -82,7 +82,8 @@
     "@binance-chain/bsc-connector": {"@web3-react/types": "^8.2.3"},
     "@ethersproject/experimental": {"ethers": "^6.13.0"},
     "react-window": {"memoize-one": "^6.0.0"},
-    "@types/react-redux": {"redux": "latest"}
+    "@types/react-redux": {"redux": "latest"},
+    "@emotion/is-prop-valid": "^1.2.2"
   },
   "resolutions": {
     "@walletconnect/web3-provider": "1.1.1-alpha.0"
